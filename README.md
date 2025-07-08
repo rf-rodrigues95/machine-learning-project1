@@ -6,7 +6,7 @@
   - Ricardo Rodrigues (rf-rodrigues95)
 ---
 
-## Overview
+## Project Description
 
 This repository contains the code, experiments, and final report for a Machine Learning project focused on predicting the positions of celestial bodies in the Three-Body Problem, purely through data-driven techniques, without using numerical integration or physical simulation.
 
