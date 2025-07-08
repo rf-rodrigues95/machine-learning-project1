@@ -1,4 +1,4 @@
-# Machine Learning Project: Pokémon Image Classification  
+# Machine Learning Project: The three-body problem  
 **NOVA School of Science and Technology (NOVA FCT) – 2024/2025**  
 **Course:** Machine Learning  
 **Final Grade:** 14.3   
