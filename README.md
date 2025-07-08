@@ -1,7 +1,7 @@
 # Machine Learning Project: Pokémon Image Classification  
 **NOVA School of Science and Technology (NOVA FCT) – 2024/2025**  
 **Course:** Machine Learning  
-**Final Grade:** 14.3
+**Final Grade:** 14.3   
 **Author:** 
   - Ricardo Rodrigues (rf-rodrigues95)
 ---
