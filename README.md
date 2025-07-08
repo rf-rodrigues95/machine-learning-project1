@@ -38,6 +38,6 @@ k, using both raw and engineered features. Final results are compared against al
 
 **Note:** This was my first Machine Learning project. Due to an unfortunate group dynamic and time constraints caused by work obligations, the overall quality of this project does not reflect my usual standards. As such, I’ve chosen not to provide a detailed breakdown of the task-specific code structure.
 
-For a more refined application of the concepts introduced here, including cleaner implementation, clearer analysis, and more advanced techniques — please refer to my follow-up project: machine-learning-project2. That project better represents the level of quality I aim for in my work.
+For a more refined application of the concepts introduced here, including cleaner implementation, clearer analysis, and more advanced techniques, please refer to my follow-up project: machine-learning-project2. That project better represents the level of quality I aim for in my work.
 
 ---
