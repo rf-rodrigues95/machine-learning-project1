@@ -33,9 +33,6 @@ k, using both raw and engineered features. Final results are compared against al
 
 ## Repository Structure
 
-- /Task1/ # Jupyter notebooks and source code for MLP classification
-- /Task2/ # Jupyter notebooks and source code for CNN development
-- /Task3/ # Jupyter notebooks and source code for transfer learning and fine-tuning
 - /report/ # Final comprehensive report covering all tasks (PDF)
 
 
