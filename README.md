@@ -6,9 +6,15 @@
   - Ricardo Rodrigues (rf-rodrigues95)
 ---
 
-## Project Description
+## Final report
 
-https://www.kaggle.com/competitions/machine-learning-nova-2024-the-three-body-proble
+[See the Slides](./report/novafct-ml24-paper59.pdf)
+
+## 📂 Kaggle Competition
+
+**Competition Link**: [ML Nova 2024 – Multiple myeloma survival](https://www.kaggle.com/competitions/machine-learning-nova-2024-the-three-body-proble)
+
+## Project Description
 
 This repository contains the code, experiments, and final report for a Machine Learning project focused on predicting the positions of celestial bodies in the Three-Body Problem, purely through data-driven techniques, without using numerical integration or physical simulation.
 
